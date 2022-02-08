@@ -16,6 +16,9 @@ Icon?
 # Idea stuff
 .idea/**
 
+# VSCode
+.vscode
+
 # Zap output
 report*.html
 
